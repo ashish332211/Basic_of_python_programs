@@ -1,1 +1,1 @@
-Python is a dynamic programming languagePython is a scripting language
+Python is a dynamic programming language
